@@ -78,4 +78,18 @@ h4 {
     margin: 5%;
     padding: 2%;
     border-radius: 20px;
+    width: 50%;
+}
+
+.members {
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 30px gray;
+    padding-left: 10%;
+    text-align: center;
+}
+
+.likers {
+    margin-left: 5%;
+    margin-right: 10%;
 }
