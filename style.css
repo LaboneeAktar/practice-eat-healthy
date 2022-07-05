@@ -36,7 +36,7 @@ p {
 }
 
 .half-images {
-    height: 80%;
+    height: 70%;
     width: 80%;
 }
 
@@ -92,4 +92,22 @@ h4 {
 .likers {
     margin-left: 5%;
     margin-right: 10%;
+}
+
+footer {
+    text-align: center;
+    background-color: #000000ee;
+    color: darkslategrey;
+    padding-top: 1%;
+    padding-bottom: 4%;
+}
+
+.eat {
+    color: darkred;
+}
+
+.last {
+    text-align: center;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.616)
 }
