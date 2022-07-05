@@ -2,12 +2,17 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
-span {
-    color: crimson;
-}
-
 h1 {
     font-size: 40px;
+}
+
+.diet {
+    color: crimson;
+
+}
+
+p {
+    text-align: justify;
 }
 
 .order-food {
@@ -16,9 +21,10 @@ h1 {
     padding: 10px 30px;
     border-radius: 20px;
     color: black;
+    font-weight: 600;
 }
 
-.top-banner {
+.flex-container {
     display: flex;
 }
 
@@ -31,4 +37,16 @@ h1 {
 .half-width img {
     height: 80%;
     width: 80%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.myself {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+
 }
