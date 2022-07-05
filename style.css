@@ -26,6 +26,7 @@ p {
 
 .flex-container {
     display: flex;
+    margin-bottom: 5%;
 }
 
 .half-width {
@@ -34,7 +35,7 @@ p {
 
 }
 
-.half-width img {
+.half-images {
     height: 80%;
     width: 80%;
 }
@@ -49,4 +50,32 @@ p {
     background-image: url(images/7.png);
     background-repeat: no-repeat;
 
+}
+
+.my-recipies {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.recipies {
+    text-align: justify;
+}
+
+.recipie-image {
+    height: 40%;
+    width: 100%;
+    border-radius: 15px;
+}
+
+h4 {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.food-box {
+    box-shadow: 10px 10px 30px gray;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 20px;
 }
