@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+span {
+    color: crimson;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.order-food {
+    text-decoration: none;
+    background-image: linear-gradient(aquamarine, rgb(0, 174, 255));
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: black;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+
+}
+
+.half-width img {
+    height: 80%;
+    width: 80%;
+}
